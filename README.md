@@ -24,6 +24,10 @@ Plot the images using plt.imshow.
 
  
 ## Program:
+```
+Developed by : Gowri M
+Registeration Number:212220230019
+```
 
 ``` Python
 # Import the necessary packages
